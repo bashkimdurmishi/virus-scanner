@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/virus-scanner/static/css/main.2e2984ef.chunk.css",
+    "main.js": "/virus-scanner/static/js/main.4863b55e.chunk.js",
+    "main.js.map": "/virus-scanner/static/js/main.4863b55e.chunk.js.map",
+    "runtime-main.js": "/virus-scanner/static/js/runtime-main.56dc6888.js",
+    "runtime-main.js.map": "/virus-scanner/static/js/runtime-main.56dc6888.js.map",
+    "static/css/2.be92eb00.chunk.css": "/virus-scanner/static/css/2.be92eb00.chunk.css",
+    "static/js/2.38c569d4.chunk.js": "/virus-scanner/static/js/2.38c569d4.chunk.js",
+    "static/js/2.38c569d4.chunk.js.map": "/virus-scanner/static/js/2.38c569d4.chunk.js.map",
+    "index.html": "/virus-scanner/index.html",
+    "static/css/2.be92eb00.chunk.css.map": "/virus-scanner/static/css/2.be92eb00.chunk.css.map",
+    "static/css/main.2e2984ef.chunk.css.map": "/virus-scanner/static/css/main.2e2984ef.chunk.css.map",
+    "static/js/2.38c569d4.chunk.js.LICENSE.txt": "/virus-scanner/static/js/2.38c569d4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/virus-scanner/static/media/circle.635a38c9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56dc6888.js",
+    "static/css/2.be92eb00.chunk.css",
+    "static/js/2.38c569d4.chunk.js",
+    "static/css/main.2e2984ef.chunk.css",
+    "static/js/main.4863b55e.chunk.js"
+  ]
+}
