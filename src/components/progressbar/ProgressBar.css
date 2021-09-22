@@ -1,0 +1,32 @@
+.svg {
+    display: block;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    margin: 0 10px 0 0;
+    max-width: 100%;
+  }
+  
+  .svg-circle-bg {
+    fill: none;
+  }
+  
+  .svg-circle {
+    fill: none;
+  }
+  .svg-circle-text {
+    font-size: 1rem;
+    text-anchor: middle;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .big-text {
+    font-size: 2.5rem;
+  }
+  
+  .white-fill {
+    fill: #000;
+  }
