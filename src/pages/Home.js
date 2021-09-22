@@ -33,6 +33,8 @@ function Home() {
   instance.defaults.headers.post["x-apikey"] =
     process.env.REACT_APP_VIRUS_TOTAL_KEY;
 
+  console.log(process.env.REACT_APP_VIRUS_TOTAL_KEY);
+
   const handleSubmit = (e) => {
     setData(null);
     e.preventDefault();
