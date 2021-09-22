@@ -25,19 +25,15 @@ function File() {
     baseURL: baseUrl,
     headers: {
       Accept: "application/json",
-      "Content-Type": "application/json",
+      "Content-Type": "application/x-www-form-urlencoded",
     },
+    withCredentials: false,
   });
 
   instance.defaults.headers.get["x-apikey"] =
     process.env.REACT_APP_VIRUS_TOTAL_KEY;
   instance.defaults.headers.post["x-apikey"] =
     process.env.REACT_APP_VIRUS_TOTAL_KEY;
-
-  instance.defaults.headers.get["Content-Type"] =
-    "application/x-www-form-urlencoded";
-  instance.defaults.headers.post["Content-Type"] =
-    "application/x-www-form-urlencoded";
 
   const onDrop = (file) => {
     setData(null);
